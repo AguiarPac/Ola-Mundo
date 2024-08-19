@@ -47,3 +47,19 @@ Alimento | Proteína | Carboidrato | Gorduras
 Arroz(300g) | 8g | 85g | 0,8g
 Frango(200g) | 46,6g | 0g | 1,5g
 Brócolis(100g) | 2,4g | 10g | 0,4g
+
+Comandos: entre crases
+
+`document.getElementById()`
+
+Adicionar códigos 
+```
+var pessoaUsuaria = Cauê
+console.log(pessoaUsuaria)
+```
+
+para utilizar emoji: usar o (:+nome)
+
+🖖
+
+
